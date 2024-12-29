@@ -40,7 +40,7 @@ To run this project, ensure you have the following:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/zillow-scraper-automation.git
+   git clone https://github.com/AkhilCh54/Zillow-Property-Automation.git
    ```
 2. Navigate to the project directory:
    ```bash
