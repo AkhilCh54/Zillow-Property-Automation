@@ -44,7 +44,7 @@ To run this project, ensure you have the following:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd zillow-scraper-automation
+   cd zillow-property-automation
    ```
 3. Install the required dependencies:
    ```bash
